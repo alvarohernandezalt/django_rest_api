@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/zCODE/12_DJANGO/00_django_rest_api_project","disabled":false,"__vagrantfile":true},"/srv/website":{"guestpath":"/srv/website","hostpath":"D:/zCODE/12_DJANGO/00_django_rest_api_project","disabled":false,"__vagrantfile":true}}}
