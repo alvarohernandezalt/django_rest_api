@@ -15,7 +15,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from messages_app.views import MessageList
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('messages/', MessageList.as_view(),name='message-list'),
 ]
