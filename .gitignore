@@ -1,4 +1,6 @@
 # Ignore all logs
 *.log
 *.cache
+**/temp
+**/.DS_Store
 __pycache__/
